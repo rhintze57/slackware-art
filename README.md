@@ -1,0 +1,2 @@
+# slackware-art
+artwork
